@@ -19,3 +19,13 @@ Excited to do more tomorrow, and I might even keep going today depending on how 
 **Link to work**: [Source](https://github.com/bellhuffstutler/freeCodeCamp/tree/main/Scientific_Computing_With_Python) ; [Live](https://beloisehuffstutler.codes/freeCodeCamp/Responsive_Web_Design/Balance_Sheet/index.html) - [Source](https://github.com/bellhuffstutler/freeCodeCamp/tree/main/Responsive_Web_Design/Balance_Sheet)
 
 Going to take a break to get some coffee and rest my brain, and then finish up the Balance Sheet section of the Responsive Web Design Cert; Finished the Balance Sheet section, remind me that I really don't want to design a bunch of tables in my life that's so tedious lmao
+
+### Day 3: May 28, 2022
+
+**Today's Progress**: Finished Picasso Painting, Piano, Technical Documentation Page, and City Skyline projects in freeCodeCamp
+
+**Thoughts**: Oh god theres so much you can do with CSS it's wild. Really have to continue to pay a lot of attention to how I input things to avoid typos, but all around today was a really good lesson and in general I'm feeling good about everything.
+
+**Link to work**: [Live](https://beloisehuffstutler.codes/) - [Source](https://github.com/bellhuffstutler/My_website)
+
+Excited to do more tomorrow, but for today, I am feeling really good and proud of what I managed!
